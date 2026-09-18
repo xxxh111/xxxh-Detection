@@ -1,0 +1,36 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ---- 虚拟环境 ----
+venv/
+.venv/
+env/
+
+# ---- PyInstaller 打包产物 ----
+build/
+dist/
+build.zip
+*.exe
+
+# ---- 模型权重（按 readme 从 YOLOv5 v6.1 release 自行下载）----
+pt/
+*.pt
+*.onnx
+
+# ---- Qt 资源编译产物（由 apprcc.qrc 经 pyrcc5 生成）----
+apprcc_rc.py
+
+# ---- IDE ----
+.idea/
+.vscode/
+
+# ---- 本地私有配置（含摄像头凭据，不公开）----
+config/ip.json
+
+# ---- 运行时输出 ----
+runs/
+output/
+*.log

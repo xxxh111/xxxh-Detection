@@ -1,0 +1,1 @@
+{"open_fold": "./output/images", "pause_time": "2", "temp_index": "8", "sleep_time": "3", "read_log": "./output/log.txt", "read_sleep": "1","conf_thres": "0.58","iou":"0.58","max_num": "400","save_video":"./output/video","save_video1":"./output/video1"}
