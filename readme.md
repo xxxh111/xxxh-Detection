@@ -8,17 +8,6 @@ Other versions: [v5.0](https://github.com/Javacr/PyQt5-YOLOv5/tree/yolov5_v5.0),
 
 If you don't interested in code, you can use the packaged GUI. Download link: [Google Drive](https://drive.google.com/file/d/1UpU0zqDsH_fgkiHw7wLakFMygULXM6qc/view?usp=sharing) or [Baidu Netdisk-pwd=6666](https://pan.baidu.com/s/105Hl2UqRSaDbh4hJQWQ8rg?pwd=6666 ).
 
-Download the zip file and unzip it to the destination, find and run main.exe
-
-![location](./imgs/exe_location.JPG)
-
-### Updated Date：2023/2/1
-![GUI](./imgs/GUI_new.png)
-
-![RUNNING](./imgs/Running.png)
-
-![singwin](./imgs/SingleWin.png)
-
 
 ### Quick Start
 
