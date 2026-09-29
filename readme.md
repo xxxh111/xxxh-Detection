@@ -19,8 +19,6 @@ Download the zip file and unzip it to the destination, find and run main.exe
 
 ![singwin](./imgs/SingleWin.png)
 
-### Demo Video：
-[https://www.bilibili.com/video/BV1sQ4y1C7Vk?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV1sQ4y1C7Vk?spm_id_from=333.999.0.0)
 
 ### Quick Start
 
